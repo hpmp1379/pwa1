@@ -6,7 +6,7 @@
   "dir": "auto",
   "display": "standalone",
   "orientation": "any",
-  "scope": " https://hpmp1379.github.io/pwa1/",
+  "scope": "https://hpmp1379.github.io/pwa1/",
   "start_url": "https://hpmp1379.github.io/pwa1/",
   "lang": "ko",
   "theme_color": "#ffffff",
